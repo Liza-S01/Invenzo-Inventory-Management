@@ -144,6 +144,8 @@ To contribute:
 3. Raise a pull request after proper testing
 
 ---
+## Deployed link for backend:
+*https://lizasingla.pythonanywhere.com/*
 
 ## 📬 Contact
 
